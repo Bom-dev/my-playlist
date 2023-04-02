@@ -1,0 +1,42 @@
+[
+    {
+        "title": "TEST1",
+        "artist": "TEST1",
+        "album": "TEST1",
+        "image": "TEST1",
+        "year": 2000,
+        "link": "www.bomkim.info"
+    },
+    {
+        "title": "TEST2",
+        "artist": "TEST2",
+        "album": "TEST2",
+        "image": "TEST2",
+        "year": 2000,
+        "link": "www.bomkim.info"
+    },
+    {
+        "title": "TEST3",
+        "artist": "TEST3",
+        "album": "TEST3",
+        "image": "TEST3",
+        "year": 2000,
+        "link": "www.bomkim.info"
+    },
+    {
+        "title": "TEST4",
+        "artist": "TEST4",
+        "album": "TEST4",
+        "image": "TEST4",
+        "year": 2000,
+        "link": "www.bomkim.info"
+    },
+    {
+        "title": "TEST5",
+        "artist": "TEST5",
+        "album": "TEST5",
+        "image": "TEST5",
+        "year": 2000,
+        "link": "www.bomkim.info"
+    }
+]
